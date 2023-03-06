@@ -1,4 +1,4 @@
-# Code Challenge Template
+# Code Challenge
 
 # Problem 1 - Data Modeling
 Refer `answers\db.sql`
